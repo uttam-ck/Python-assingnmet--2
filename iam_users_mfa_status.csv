@@ -1,0 +1,10 @@
+IAMUserName,MFAEnabled
+admin-user-1,False
+boto3-user,False
+developer-iam,True
+developer_1,False
+developer_2,False
+operartor_1,False
+operation_iam,True
+operator_2,False
+Uttam,True

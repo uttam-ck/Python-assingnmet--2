@@ -1,0 +1,4 @@
+IAMRoleName,PolicyName
+CloudWatchEC2StopRole,AmazonEC2FullAccess
+CloudWatchEC2StopRole,CloudWatchFullAccess
+rep-role-1,AmazonS3FullAccess
